@@ -45,7 +45,7 @@ const solutionHandler = async (request, h) => {
         };
 
         const response = h.response({
-            status: 'failes',
+            status: 'failed',
             message: 'Penyakit yang anda cari tidak ditemukan'
         });
 
