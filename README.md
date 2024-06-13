@@ -46,8 +46,7 @@ tail_rot
     "message": "Data solusi berhasil didapatkan",
     "data": {
         "data": {
-            "id": 1,
-            "name": "aeromonas",
+            "name": "[nama penyakit]",
             "gejala": {
                 "1": "[gejala 1]",
                 "2": "[gejala 2]",
